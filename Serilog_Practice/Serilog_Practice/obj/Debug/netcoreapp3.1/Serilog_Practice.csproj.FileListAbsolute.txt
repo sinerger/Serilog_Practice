@@ -1,0 +1,16 @@
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\bin\Debug\netcoreapp3.1\Serilog_Practice.exe
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\bin\Debug\netcoreapp3.1\Serilog_Practice.deps.json
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\bin\Debug\netcoreapp3.1\Serilog_Practice.runtimeconfig.json
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\bin\Debug\netcoreapp3.1\Serilog_Practice.runtimeconfig.dev.json
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\bin\Debug\netcoreapp3.1\Serilog_Practice.dll
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\bin\Debug\netcoreapp3.1\Serilog_Practice.pdb
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\bin\Debug\netcoreapp3.1\Serilog.dll
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\obj\Debug\netcoreapp3.1\Serilog_Practice.csprojAssemblyReference.cache
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\obj\Debug\netcoreapp3.1\Serilog_Practice.AssemblyInfoInputs.cache
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\obj\Debug\netcoreapp3.1\Serilog_Practice.AssemblyInfo.cs
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\obj\Debug\netcoreapp3.1\Serilog_Practice.csproj.CoreCompileInputs.cache
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\obj\Debug\netcoreapp3.1\Serilog_Practice.csproj.CopyComplete
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\obj\Debug\netcoreapp3.1\Serilog_Practice.dll
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\obj\Debug\netcoreapp3.1\Serilog_Practice.pdb
+F:\C#\Serilog_Practice\Serilog_Practice\Serilog_Practice\obj\Debug\netcoreapp3.1\Serilog_Practice.genruntimeconfig.cache
